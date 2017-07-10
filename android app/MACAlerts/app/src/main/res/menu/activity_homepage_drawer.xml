@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/view_schedule"
+            android:title="View Schedule" />
+        <item
+            android:id="@+id/view_results"
+            android:title="View Results" />
+        <item
+            android:id="@+id/update_profile"
+            android:title="Update Profile" />
+        <item
+            android:id="@+id/register_team"
+            android:title="Register Team"
+            android:visible="false"/>
+        <item
+            android:id="@+id/view_team"
+            android:title="View Team" />
+        <item
+            android:id="@+id/logoff"
+            android:title="Log Out" />
+    </group>
+
+    <item
+        android:id="@+id/admin_panel"
+        android:title="Admin Tools"
+        android:visible="true">
+        <menu>
+            <item
+                android:id="@+id/appoint_manager"
+                android:title="Appoint Manager" />
+            <item
+                android:id="@+id/create_sporting_event"
+                android:title="Create Sporting Event" />
+            <item
+                android:id="@+id/delete_sporting_event"
+                android:title="Delete Sporting Event" />
+            <item
+                android:id="@+id/add_venues"
+                android:title="Add Venues" />
+            <item
+                android:id="@+id/delete_venues"
+                android:title="Delete Venues" />
+        </menu>
+    </item>
+
+</menu>

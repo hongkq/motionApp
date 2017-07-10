@@ -1,0 +1,120 @@
+<resources>
+    <string name="app_name">MACAlerts</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_reenter_password">Re-enter Password</string>
+    <string name="action_sign_in">Sign in </string>
+    <string name="action_forgot_pwd">Forgot Password?</string>
+    <string name="action_register">Register</string>
+    <string name="action_create_profile">Create Profile</string>
+    <string name="prompt_utaid">UTA ID</string>
+    <string name="prompt_firstname">Firstname</string>
+    <string name="prompt_lastname">Lastname</string>
+    <string name="prompt_phone">Phone</string>
+    <string name="prompt_address">Address</string>
+    <string name="prompt_gender">Gender</string>
+    <string name="prompt_desgn">Designation</string>
+    <string name="prompt_reset_pwd">Reset Password</string>
+    <string name="prompt_registration">Registration</string>
+    <string name="prompt_create_profile">Update Profile</string>
+    <string name="prompt_appoint_mgr">Appoint Manager</string>
+    <string name="prompt_register_team">Register Team</string>
+    <string name="prompt_sport_name">Sport Name</string>
+    <string name="prompt_sport_ma_team">Max Team Size</string>
+    <string name="prompt_sport_min_team">Min Team Size</string>
+    <string name="prompt_create_sprt_evt">Create Event</string>
+    <string name="prompt_create_match">Create Match</string>
+    <string name="prompt_view_team">Create Event</string>
+    <string name="prompt_add_venue">Add Venue</string>
+    <string name="prompt_referee">Referee</string>
+    <string name="prompt_manager">Manager</string>
+    <string name="prompt_venue">Venue</string>
+    <string name="prompt_team_name">Team Name</string>
+
+    <string name="session_user_name">Ishwor Timilsina</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="radio_female">Female</string>
+    <string name="radio_male">Male</string>
+    <string name="title_activity_forgot_pwd">Forgot Password</string>
+    <string name="title_activity_create_profile">Update Profile</string>
+    <string name="title_activity_homepage">Match Schedule</string>
+    <string name="title_activity_viewresults">View Results</string>
+    <string name="title_activity_register_team">Register Team</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_appoint_manager">Appoint Manager</string>
+    <string name="title_activity_create_sprt_evt">Create Sporting Event</string>
+    <string name="title_activity_delete_sprt_evt">Delete Sporting Event</string>
+    <string name="title_activity_add_venue">Add Venues</string>
+    <string name="title_activity_delete_veneu">Delete venue</string>
+    <string name="title_activity_view_team">View Team</string>
+    <string name="title_activity_create_match">Create Match</string>
+
+    <string-array name="sport_arrays">
+        <item>Men\'s Pro Football</item>
+        <item>Men\'s BasketBall</item>
+        <item>Men\'s Soccer</item>
+        <item>Women\'s Volleyball</item>
+        <item>Men\'s Softball</item>
+    </string-array>
+
+    <string-array name="referees_arrays">
+        <item>Shawn Michaels</item>
+        <item>Steve Austin</item>
+        <item>Steve McMahon</item>
+        <item>John Cena</item>
+        <item>Kevin Nash</item>
+    </string-array>
+
+    <string-array name="venue_arrays">
+        <item>MAC 514</item>
+        <item>Intramural Fields</item>
+        <item>ATnT Stadium</item>
+        <item>Staples Center</item>
+        <item>Stubhub Center</item>
+        <item>Maverick Stadium</item>
+    </string-array>
+
+    <string-array name="after_delete_venue_arrays">
+        <item>Intramural Fields</item>
+        <item>ATnT Stadium</item>
+        <item>Staples Center</item>
+        <item>Stubhub Center</item>
+        <item>Maverick Stadium</item>
+    </string-array>
+
+    <string-array name="team_arrays">
+        <item>Team Mavericks</item>
+        <item>Team batman</item>
+        <item>Invincibles</item>
+        <item>Team Chronicles</item>
+        <item>El Matador</item>
+        <item>Com\'On Gals</item>
+        <item>New Barcelona</item>
+        <item>New Madrid</item>
+        <item>New Liverpool</item>
+    </string-array>
+
+
+    <string-array name="team_member_arrays">
+    <!--    <item>arnold.scwarzenegger@mavs.uta.edu</item>
+        <item>michael.jordan@mavs.uta.edu</item>
+        <item>tim.duncan@mavs.uta.edu</item>
+        <item>jorge.lorenzo@mavs.uta.edu</item>
+        <item>michael.phelps@mavs.uta.edu</item>   -->
+    </string-array>
+
+
+</resources>
